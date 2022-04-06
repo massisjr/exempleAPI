@@ -50,4 +50,4 @@ Sonarqube: <!-- URL do projeto no sonarqube -->
 Liste aqui os links que julgue úteis para o desenvolvimento do projeto, incluindo links da [Wiki Neki](https://www.neki.com.br) e externos.
 
 ## Contato
-Criado por [@neki](https://www.neki.com.br) - Sinta-se livre para me contatar!
+Criado por <a hfef="https://www.neki.com.br" src="./docs/images/neki-logo-oficial-colorido.png" width="30" height="10"> - Sinta-se livre para me contatar!
