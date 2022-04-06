@@ -13,7 +13,7 @@ Faça uma breve descrição do seu projeto.
 * [Configuração de ambiente](#configuração-de-ambiente)
 * [Integração Contínua](#integração-contínua)
 * [Links úteis](#links-uteis)
-* [Contato](#contato)
+* [Criado por](#criado-por)
 
 ## Informações Gerais
 - Forneça aqui informações gerais sobre o seu projeto.
@@ -49,5 +49,5 @@ Sonarqube: <!-- URL do projeto no sonarqube -->
 ## Links úteis
 Liste aqui os links que julgue úteis para o desenvolvimento do projeto, incluindo links da [Wiki Neki](https://www.neki.com.br) e externos.
 
-## Contato
-Criado por <a hfef="https://www.neki.com.br"><img src="./docs/images/neki-logo-oficial-colorido.png" width="100" height="30"></a>
+## Criado por
+<a hfef="https://www.neki.com.br"><img src="./docs/images/neki-logo-oficial-colorido.png" width="100" height="30"></a>
