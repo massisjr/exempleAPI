@@ -41,9 +41,9 @@ Prossiga para descrever como instalar/configurar seu ambiente local/começar com
 
 ## Integração Contínua
 
-> Jenkins: <!-- URL do projeto no Jenkins --> 
+Jenkins: <!-- URL do projeto no Jenkins --> 
 
-> Sonarqube: <!-- URL do projeto no sonarqube -->  
+Sonarqube: <!-- URL do projeto no sonarqube -->  
 
 ## Contato
 Criado por [@neki](https://www.neki.com.br) - Sinta-se livre para me contatar!
