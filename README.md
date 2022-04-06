@@ -12,6 +12,7 @@ Faça uma breve descrição do seu projeto.
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Configuração de ambiente](#configuração-de-ambiente)
 * [Integração Contínua](#integração-contínua)
+* [Links úteis](#links-uteis)
 * [Contato](#contato)
 
 ## Informações Gerais
@@ -44,6 +45,9 @@ Prossiga para descrever como instalar/configurar seu ambiente local/começar com
 Jenkins: <!-- URL do projeto no Jenkins --> 
 
 Sonarqube: <!-- URL do projeto no sonarqube -->  
+
+## Links úteis
+Liste aqui os links que julgue úteis para o desenvolvimento do projeto, incluindo links da [Wiki Neki](https://www.neki.com.br) e externos.
 
 ## Contato
 Criado por [@neki](https://www.neki.com.br) - Sinta-se livre para me contatar!
