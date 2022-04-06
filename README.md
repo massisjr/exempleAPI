@@ -6,7 +6,7 @@ Faça uma breve descrição do seu projeto.
 
 > Link para a Demo [_aqui_](https://www.neki.com.br). <!-- Se você tem o projeto hospedado em algum lugar, inclua o link aqui. -->
 
-## Table of Contents
+## Índice
 * [Informações Gerais](#informações-gerais)
 * [	Imagens](#imagens)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
