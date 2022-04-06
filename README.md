@@ -21,8 +21,11 @@
 <!-- Você não precisa responder a todas as perguntas - apenas as relevantes para o seu projeto. -->
 
 ## Imagens
+![Exemplo de captuira de tela]<img src="./docs/images/neki-logo-oficial-colorido.png" width="100" height="20">
 ![Exemplo de captuira de tela](./docs/images/neki-logo-oficial-colorido.png)
 <!-- Se você tiver capturas de tela que gostaria de compartilhar, inclua-as aqui. -->
+
+
 
 ## Tecnologias utilizadas
 - Tech 1 - versão 1.0
