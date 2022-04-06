@@ -21,7 +21,7 @@
 <!-- Você não precisa responder a todas as perguntas - apenas as relevantes para o seu projeto. -->
 
 ## Imagens
-![Exemplo de captuira de tela](./docs/images/neki-logo-oficial-colorido.png =100x20)
+![Exemplo de captuira de tela](./docs/images/neki-logo-oficial-colorido.png)
 <!-- Se você tiver capturas de tela que gostaria de compartilhar, inclua-as aqui. -->
 
 ## Tecnologias utilizadas
